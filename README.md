@@ -28,14 +28,14 @@ To make our foundation models available via apis, we can use amazon Bedrock.
 When you login to the Amazon account and navigate to the amazon Bedrock you should see sth like this 
 ![alt text](<Screenshot from 2024-10-03 15-27-42.png>) 
 
-Click get started and you eill be directed to the home page
+## Click get started and you eill be directed to the home page
 
 ![alt text](<Screenshot from 2024-10-03 15-31-04.png>)
 
-With foundation models you can do:
+## With foundation models you can do:
 Texts
 Chats
 Images
 
-Available foundation models in the AWS bedrock can be found the the landing page. they include :
+## Available foundation models in the AWS bedrock can be found the the landing page. they include :
 ![alt text](<Screenshot from 2024-10-03 15-35-15.png>)
