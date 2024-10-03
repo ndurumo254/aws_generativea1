@@ -23,4 +23,11 @@ After secting the best model you can:
 - Opttimizing of the model ->for inferencing aws,azure,gcp
 - Building llm power applications/solutions
 
+# Amazon Bedrock
+To make our foundation models available via apis, we can use amazon Bedrock.
+When you login to the Amazon account and navigate to the amazon Bedrock you should see sth like this 
+![alt text](<Screenshot from 2024-10-03 15-27-42.png>) 
 
+Click get started and you eill be directed to the home page
+
+![alt text](<Screenshot from 2024-10-03 15-31-04.png>)
