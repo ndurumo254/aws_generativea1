@@ -33,9 +33,9 @@ When you login to the Amazon account and navigate to the amazon Bedrock you shou
 ![alt text](<Screenshot from 2024-10-03 15-31-04.png>)
 
 ## With foundation models you can do:
-Texts
-Chats
-Images
+- Texts
+- Chats
+- Images
 
 ## Available foundation models in the AWS bedrock can be found the the landing page. they include :
 ![alt text](<Screenshot from 2024-10-03 15-35-15.png>)
